@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lademanager</string>
+    <string name="meta_info">Placeholder</string>
+    <string name="switch_text">Computersteuerung</string>
+
+    <string name="go_e_charger_ip">192.168.178.86</string>
+    <string name="sonnen_ip">192.168.178.95</string>
 </resources>

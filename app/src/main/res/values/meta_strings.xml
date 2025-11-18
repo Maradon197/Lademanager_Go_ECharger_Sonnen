@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_level_label">Ladestand Batterie: %1$s</string>
+    <string name="car_level_label">Ladestatus: %1$s</string>
+    <string name="charged_energy_label">Geladene Energie: %1$s</string>
+    <string name="pv_input_label">PV-Leistung: %1$s</string>
+    <string name="initial_value">--</string>
+</resources>
